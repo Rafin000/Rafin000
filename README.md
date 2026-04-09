@@ -3,10 +3,9 @@
 ```typescript
 const engineer = {
   name: "Md. Maruful Islam",
-  role: "Software Engineer & AI Builder",
+  role: "Software Engineer",
   location: "Dhaka, Bangladesh 🇧🇩",
   focus: ["Agentic AI", "Full-Stack", "Cloud Infrastructure"],
-  currentlyBuilding: "AI systems that plan, reason and act",
 };
 ```
 
@@ -69,6 +68,7 @@ Right now I am most excited about **agentic AI**, **LLM integration**, and **rea
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=flat-square&logoColor=white)
 
 **Others**
 
