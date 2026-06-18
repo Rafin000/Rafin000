@@ -103,12 +103,6 @@ Right now I am most excited about **agentic AI**, **LLM integration**, and **rea
 **🗄️ Brilliant EDMS & Ticketing** *(at Intercloud Limited)*
 > An Enterprise Document Management System over AWS S3 with versioned file storage and scheduled (Celery beat) document-expiry alerts. Also built a ticketing portal microservice end to end (Python, Flask, PostgreSQL, Docker) using Celery with a RabbitMQ broker for async background tasks, plus a fully automated CI/CD pipeline.
 
-**🔍 Offensive Bengali Meme Detection** *(Research / Thesis)*
-> Multimodal weighted ensemble combining BERT and DenseNet to detect offensive Bengali memes across a three level classification hierarchy. Won Champion at CLBLP 2023.
-
-**🏥 Medicare Center**
-> Multi-tenant SaaS for Bangladeshi doctors with auth, RBAC, audit logging, end-to-end consult-to-prescription flow, location-aware doctor discovery and a complete billing and payment system.
-
 **🔧 Full-fledged Portfolio with CI/CD Deployment**
 > A Python service shipped with a fully automated CI/CD pipeline (Git workflow, Jenkins, ArgoCD, Terraform, git hooks), deployed on a Kubernetes cluster for scalable, resilient delivery.
 
