@@ -95,7 +95,7 @@ Right now I am most excited about **agentic AI**, **LLM integration**, and **rea
 > A TypeScript coding agent that learns microservice repos using Neo4j graph knowledge and Cloudflare Vectorize embeddings. Implements features via Claude with streaming tool use and a stateful plan, review, implement and sync workflow. Connected to GitHub PR webhooks and Jira automation.
 
 **🎙️ Real-Time AI Voice & Campaign Platform** *(at Forward Flow)*
-> A multi-tenant platform that runs automated outbound campaigns — calls, SMS/MMS and email to leads with no human in the loop. The voice side streams Twilio Media to LLM backends over WebSockets (Gemini Live native audio, plus an OpenAI gpt-4o + ElevenLabs pipeline) on Cloudflare Durable Objects, with a custom real-time audio pipeline, mid-call function-calling tools, per-tenant secret management, and an end-to-end simulation harness for testing.
+> A multi-tenant platform that runs automated outbound campaigns (calls, SMS/MMS and email) to leads with no human in the loop. The voice side streams Twilio Media to LLM backends over WebSockets (Gemini Live native audio, plus an OpenAI gpt-4o + ElevenLabs pipeline) on Cloudflare Durable Objects, with a custom real-time audio pipeline, mid-call function-calling tools, per-tenant secret management, and an end-to-end simulation harness for testing.
 
 **🧠 Multi-Channel AI Customer Service Platform**
 > Multi-tenant SaaS that deploys AI agents across WhatsApp, Telegram, Facebook, Instagram and web widgets. Built with RAG knowledge base, workflow builder, Stripe billing and real-time messaging using Claude and OpenAI.
