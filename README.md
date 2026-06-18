@@ -109,8 +109,8 @@ Right now I am most excited about **agentic AI**, **LLM integration**, and **rea
 **🏥 Medicare Center**
 > Multi-tenant SaaS for Bangladeshi doctors with auth, RBAC, audit logging, end-to-end consult-to-prescription flow, location-aware doctor discovery and a complete billing and payment system.
 
-**🔐 OTP Detection with NLP**
-> Robust OTP detection system using Python, spaCy, TF-IDF and PostgreSQL for multilingual SMS filtering with dynamic rule management.
+**🔧 Full-fledged Portfolio with CI/CD Deployment**
+> A Python service shipped with a fully automated CI/CD pipeline (Git workflow, Jenkins, ArgoCD, Terraform, git hooks), deployed on a Kubernetes cluster for scalable, resilient delivery.
 
 ---
 
